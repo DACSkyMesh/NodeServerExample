@@ -10,3 +10,6 @@ server.Start(router.route, pageserver.serve, pageserver.reqtype);
 
 // this is from: 
 // http://stackoverflow.com/questions/17478566/using-node-js-to-serve-up-basic-web-page-with-css-and-js-includes
+// in the command line run node index.js
+// in the browser go to localhost:8888
+
